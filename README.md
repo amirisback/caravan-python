@@ -6,11 +6,10 @@ All About Python (still a plan)
 - Basic Python
 -
 -
--
--
 - comming soon
 
-
+# Reference
+- w3school.com - https://www.w3schools.com/python
 
 # Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
