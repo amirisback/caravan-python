@@ -4,12 +4,15 @@ All About Python (still a plan)
 
 # About This Project
 - Basic Python
--
--
 - comming soon
 
 # Reference
 - w3school.com - https://www.w3schools.com/python
+
+# Tools
+- Python (SDK) - https://www.python.org/downloads/
+- PyCharm JetBrain Community (IDE) - https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+- Git (Windows) - https://git-scm.com/download/win 
 
 # Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
