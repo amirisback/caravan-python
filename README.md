@@ -1,20 +1,20 @@
-# Learning About Python Programming Language
+## Learning About Python Programming Language
 All About Python (still a plan)
 - v1.0.0 Development
 
-# About This Project
+## About This Project
 - Basic Python
 - comming soon
 
-# Reference
+## Reference
 - w3school.com - https://www.w3schools.com/python
 
-# Tools
+## Tools
 - Python (SDK) - https://www.python.org/downloads/
 - PyCharm JetBrain Community (IDE) - https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
 - Git (Windows) - https://git-scm.com/download/win 
 
-# Colaborator
+## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
 
 - Mail To faisalamircs@gmail.com
@@ -28,7 +28,7 @@ Name Of Contribute
 
 Waiting for your contribute
 
-# Attention !!!
+## Attention !!!
 Please enjoy and don't forget fork and give a star
 - Don't Forget Follow My Github Account
 
